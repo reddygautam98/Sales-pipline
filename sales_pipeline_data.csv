@@ -1,0 +1,501 @@
+Opportunity_ID,Created_Date,Closed_Date,Sales_Stage,Product_Type,Sales_Rep,Opportunity_Size,Deal_Amount,Status
+1,2023-08-23,2024-02-09,Closed-Lost,Software,Bob,Medium,80220,Lost
+2,2023-03-29,2023-08-20,Closed-Won,Hardware,Alice,Enterprise,63373,Won
+3,2023-05-13,2023-06-02,Lead,Hardware,Alice,Enterprise,26986,In Progress
+4,2023-08-18,2023-11-09,Closed-Won,Hardware,David,Enterprise,87681,Won
+5,2023-12-04,2024-03-01,Proposal,Subscription,Frank,Medium,23284,In Progress
+6,2023-12-26,2024-04-09,Proposal,Hardware,Charlie,Large,35982,In Progress
+7,2023-03-17,2023-07-10,Negotiation,Hardware,Frank,Enterprise,41775,In Progress
+8,2023-11-18,2024-03-09,Negotiation,Software,Charlie,Small,58741,In Progress
+9,2023-05-03,2023-06-12,Closed-Won,Subscription,Eve,Large,85128,Won
+10,2023-06-26,2023-10-28,Closed-Won,Software,Charlie,Small,33600,Won
+11,2023-04-09,2023-08-04,Proposal,Software,Alice,Enterprise,46910,In Progress
+12,2023-10-08,2024-04-05,Negotiation,Hardware,Charlie,Medium,96126,In Progress
+13,2023-02-01,2023-04-26,Lead,Hardware,Frank,Enterprise,97477,In Progress
+14,2023-03-23,2023-05-13,Lead,Hardware,Alice,Enterprise,29937,In Progress
+15,2023-05-10,2023-06-23,Lead,Hardware,Frank,Large,49115,In Progress
+16,2023-02-07,2023-04-23,Qualified,Software,Frank,Medium,57859,In Progress
+17,2023-01-31,2023-05-31,Negotiation,Consulting,Alice,Medium,38586,In Progress
+18,2023-11-01,2024-01-01,Closed-Lost,Software,Frank,Small,33764,Lost
+19,2023-10-20,2024-01-13,Closed-Won,Subscription,David,Enterprise,72575,Won
+20,2023-08-07,2023-11-29,Closed-Won,Subscription,Alice,Medium,34358,Won
+21,2023-11-27,2024-01-08,Closed-Lost,Subscription,Eve,Large,64738,Lost
+22,2023-05-21,2023-08-03,Closed-Lost,Subscription,Alice,Small,26585,Lost
+23,2024-01-01,2024-05-01,Qualified,Subscription,Charlie,Enterprise,83948,In Progress
+24,2023-09-14,2024-02-11,Negotiation,Consulting,Bob,Large,43964,In Progress
+25,2023-02-21,2023-06-05,Negotiation,Subscription,Charlie,Medium,19666,In Progress
+26,2023-09-09,2023-10-21,Proposal,Software,Charlie,Medium,25957,In Progress
+27,2023-11-23,2023-12-11,Closed-Lost,Software,Charlie,Medium,36693,Lost
+28,2023-03-25,2023-05-21,Proposal,Hardware,Frank,Enterprise,74660,In Progress
+29,2023-10-29,2024-02-25,Proposal,Consulting,Alice,Large,79895,In Progress
+30,2023-05-13,2023-10-25,Negotiation,Consulting,Bob,Enterprise,93385,In Progress
+31,2023-11-26,2024-02-16,Qualified,Hardware,Eve,Small,50188,In Progress
+32,2023-12-03,2024-02-09,Qualified,Hardware,David,Small,83132,In Progress
+33,2023-07-19,2024-01-04,Qualified,Software,Alice,Small,66741,In Progress
+34,2023-04-14,2023-10-09,Qualified,Consulting,Alice,Medium,43102,In Progress
+35,2023-03-22,2023-06-06,Negotiation,Hardware,Eve,Enterprise,78810,In Progress
+36,2023-05-17,2023-11-12,Closed-Lost,Software,David,Medium,56988,Lost
+37,2023-05-16,2023-07-24,Negotiation,Software,David,Enterprise,42866,In Progress
+38,2023-10-09,2024-01-01,Negotiation,Consulting,Frank,Enterprise,79068,In Progress
+39,2023-09-29,2024-01-22,Lead,Subscription,Frank,Small,86825,In Progress
+40,2023-12-07,2024-05-13,Lead,Software,Eve,Large,25564,In Progress
+41,2023-06-09,2023-07-12,Closed-Lost,Subscription,Frank,Small,33082,Lost
+42,2023-12-26,2024-04-05,Proposal,Software,Alice,Enterprise,55051,In Progress
+43,2023-07-01,2023-08-15,Closed-Won,Hardware,David,Enterprise,61148,Won
+44,2023-08-15,2023-11-13,Qualified,Software,Bob,Medium,97727,In Progress
+45,2023-07-02,2023-09-28,Closed-Won,Software,Eve,Large,8960,Won
+46,2023-02-04,2023-07-17,Closed-Won,Software,Eve,Enterprise,12015,Won
+47,2023-06-02,2023-09-28,Closed-Lost,Hardware,Eve,Large,41422,Lost
+48,2023-08-31,2023-10-23,Lead,Hardware,David,Medium,21153,In Progress
+49,2023-11-19,2024-04-03,Lead,Consulting,Frank,Enterprise,6911,In Progress
+50,2023-09-05,2024-02-12,Lead,Hardware,Frank,Large,99006,In Progress
+51,2023-03-08,2023-05-02,Negotiation,Subscription,Charlie,Large,90112,In Progress
+52,2023-02-17,2023-06-02,Proposal,Consulting,David,Medium,68743,In Progress
+53,2023-11-08,2024-03-14,Proposal,Hardware,Alice,Enterprise,66709,In Progress
+54,2023-01-08,2023-04-09,Qualified,Software,Frank,Small,78042,In Progress
+55,2023-11-03,2024-02-29,Negotiation,Subscription,David,Large,48879,In Progress
+56,2023-04-10,2023-05-06,Closed-Lost,Software,Eve,Medium,41136,Lost
+57,2023-03-18,2023-07-23,Qualified,Consulting,Bob,Enterprise,87753,In Progress
+58,2023-05-09,2023-06-05,Closed-Lost,Consulting,Charlie,Medium,22834,Lost
+59,2023-01-18,2023-02-05,Negotiation,Consulting,David,Enterprise,71406,In Progress
+60,2024-01-01,2024-04-22,Closed-Won,Software,David,Large,96462,Won
+61,2023-06-28,2023-07-10,Closed-Lost,Subscription,Eve,Large,89032,Lost
+62,2023-03-19,2023-08-16,Proposal,Hardware,Frank,Large,48222,In Progress
+63,2023-01-15,2023-03-24,Proposal,Subscription,Frank,Small,26872,In Progress
+64,2023-04-11,2023-07-31,Proposal,Hardware,Charlie,Small,54682,In Progress
+65,2023-08-08,2023-12-25,Negotiation,Hardware,Bob,Small,63324,In Progress
+66,2023-11-07,2023-12-15,Lead,Consulting,Bob,Medium,52258,In Progress
+67,2023-09-29,2024-01-08,Negotiation,Software,David,Medium,37297,In Progress
+68,2023-04-21,2023-08-24,Qualified,Consulting,Bob,Enterprise,44851,In Progress
+69,2023-08-22,2023-12-09,Negotiation,Subscription,David,Enterprise,40294,In Progress
+70,2023-07-20,2023-11-15,Qualified,Software,Eve,Large,12169,In Progress
+71,2023-08-29,2023-10-21,Qualified,Consulting,Frank,Enterprise,46669,In Progress
+72,2023-01-03,2023-03-18,Qualified,Hardware,David,Small,20523,In Progress
+73,2023-02-24,2023-05-02,Negotiation,Hardware,David,Enterprise,94889,In Progress
+74,2023-01-31,2023-07-27,Proposal,Subscription,Frank,Enterprise,52827,In Progress
+75,2023-10-13,2023-11-24,Negotiation,Subscription,Frank,Medium,84379,In Progress
+76,2023-08-07,2023-10-29,Qualified,Software,Frank,Large,46901,In Progress
+77,2023-06-20,2023-09-05,Proposal,Software,Eve,Medium,75239,In Progress
+78,2023-11-23,2024-03-08,Negotiation,Consulting,David,Medium,70537,In Progress
+79,2023-03-12,2023-04-16,Negotiation,Subscription,Charlie,Small,68720,In Progress
+80,2023-08-08,2023-12-09,Lead,Software,Eve,Small,20431,In Progress
+81,2023-04-26,2023-06-09,Negotiation,Consulting,Frank,Small,33021,In Progress
+82,2023-12-13,2024-05-25,Qualified,Software,Frank,Medium,22746,In Progress
+83,2023-11-15,2024-04-28,Negotiation,Consulting,Charlie,Enterprise,5729,In Progress
+84,2023-08-07,2023-12-03,Negotiation,Software,Bob,Enterprise,17611,In Progress
+85,2023-11-04,2023-11-19,Proposal,Subscription,David,Large,35961,In Progress
+86,2023-08-06,2023-12-26,Lead,Consulting,Alice,Medium,92779,In Progress
+87,2023-09-07,2024-02-23,Closed-Lost,Hardware,Eve,Enterprise,62401,Lost
+88,2023-10-23,2023-11-03,Negotiation,Consulting,Charlie,Small,63395,In Progress
+89,2023-07-13,2023-11-20,Proposal,Software,Eve,Medium,70712,In Progress
+90,2023-05-10,2023-05-27,Lead,Software,Charlie,Small,54283,In Progress
+91,2023-06-22,2023-10-31,Qualified,Consulting,Bob,Large,39649,In Progress
+92,2023-10-27,2024-03-15,Proposal,Subscription,Frank,Small,87358,In Progress
+93,2023-04-11,2023-08-22,Negotiation,Consulting,Frank,Medium,15725,In Progress
+94,2023-03-15,2023-07-19,Closed-Lost,Consulting,Eve,Small,10386,Lost
+95,2023-01-17,2023-06-07,Negotiation,Consulting,Bob,Medium,38743,In Progress
+96,2023-11-24,2024-04-19,Closed-Won,Consulting,Bob,Small,53566,Won
+97,2023-11-15,2023-12-16,Closed-Won,Consulting,Charlie,Large,57559,Won
+98,2023-03-15,2023-08-19,Lead,Subscription,Bob,Enterprise,14041,In Progress
+99,2023-08-02,2023-11-26,Proposal,Software,Frank,Enterprise,38651,In Progress
+100,2023-06-11,2023-07-23,Negotiation,Software,David,Enterprise,17834,In Progress
+101,2023-03-18,2023-04-08,Lead,Subscription,Charlie,Enterprise,27961,In Progress
+102,2023-03-24,2023-06-08,Negotiation,Hardware,David,Large,50431,In Progress
+103,2023-03-15,2023-05-15,Lead,Consulting,David,Medium,53661,In Progress
+104,2023-09-17,2023-10-06,Closed-Won,Hardware,Charlie,Small,25711,Won
+105,2023-07-14,2023-12-15,Negotiation,Software,Frank,Large,41831,In Progress
+106,2023-07-22,2023-12-03,Closed-Lost,Consulting,Charlie,Medium,11993,Lost
+107,2023-03-09,2023-06-29,Negotiation,Software,Bob,Large,86110,In Progress
+108,2023-06-11,2023-09-09,Negotiation,Hardware,David,Enterprise,98829,In Progress
+109,2023-06-22,2023-08-04,Lead,Software,David,Enterprise,93900,In Progress
+110,2023-03-23,2023-08-01,Closed-Lost,Consulting,Charlie,Large,57806,Lost
+111,2023-12-23,2024-01-29,Negotiation,Subscription,Alice,Small,76860,In Progress
+112,2023-08-29,2024-02-14,Negotiation,Hardware,Charlie,Small,28622,In Progress
+113,2023-10-06,2023-11-27,Negotiation,Hardware,Charlie,Medium,32459,In Progress
+114,2023-06-21,2023-12-18,Negotiation,Software,Eve,Small,33871,In Progress
+115,2023-09-17,2023-12-02,Proposal,Hardware,Eve,Large,43558,In Progress
+116,2023-04-16,2023-08-05,Qualified,Hardware,Charlie,Small,15322,In Progress
+117,2023-04-03,2023-06-18,Negotiation,Consulting,Bob,Small,18347,In Progress
+118,2023-08-22,2023-10-31,Closed-Lost,Consulting,Bob,Small,16236,Lost
+119,2023-07-29,2023-10-18,Negotiation,Software,Charlie,Large,22770,In Progress
+120,2023-03-06,2023-08-03,Closed-Won,Subscription,Charlie,Large,78587,Won
+121,2023-07-15,2023-08-14,Qualified,Subscription,Alice,Small,71166,In Progress
+122,2023-10-11,2023-11-03,Closed-Lost,Subscription,Alice,Small,91921,Lost
+123,2023-11-03,2024-04-30,Negotiation,Hardware,Bob,Medium,80875,In Progress
+124,2023-03-29,2023-09-11,Qualified,Consulting,David,Medium,89205,In Progress
+125,2023-08-19,2023-12-03,Closed-Lost,Consulting,Frank,Large,41440,Lost
+126,2023-08-21,2023-09-07,Proposal,Software,Charlie,Medium,41797,In Progress
+127,2023-01-30,2023-04-24,Proposal,Subscription,Frank,Medium,44177,In Progress
+128,2023-05-23,2023-08-22,Closed-Lost,Subscription,Alice,Large,28882,Lost
+129,2023-05-07,2023-07-27,Proposal,Consulting,Eve,Large,90473,In Progress
+130,2023-04-13,2023-07-11,Negotiation,Software,Frank,Enterprise,40255,In Progress
+131,2023-01-02,2023-05-25,Qualified,Consulting,Eve,Enterprise,86275,In Progress
+132,2023-01-16,2023-07-12,Negotiation,Software,Bob,Large,60236,In Progress
+133,2023-08-07,2024-01-31,Negotiation,Subscription,Frank,Small,64947,In Progress
+134,2023-04-25,2023-06-15,Proposal,Hardware,David,Medium,74071,In Progress
+135,2023-04-02,2023-07-04,Qualified,Subscription,David,Medium,53593,In Progress
+136,2023-03-05,2023-04-09,Proposal,Hardware,Eve,Small,17842,In Progress
+137,2023-09-13,2023-12-25,Negotiation,Hardware,Frank,Medium,56847,In Progress
+138,2023-04-12,2023-09-07,Qualified,Hardware,David,Medium,66555,In Progress
+139,2023-05-05,2023-09-14,Negotiation,Software,David,Large,55695,In Progress
+140,2023-05-16,2023-07-13,Qualified,Hardware,Eve,Small,30143,In Progress
+141,2024-01-01,2024-06-02,Lead,Software,Alice,Medium,35398,In Progress
+142,2023-02-22,2023-03-18,Negotiation,Hardware,Bob,Large,86495,In Progress
+143,2023-07-03,2023-09-23,Qualified,Software,Eve,Enterprise,18646,In Progress
+144,2023-04-07,2023-06-22,Proposal,Consulting,Eve,Medium,84674,In Progress
+145,2023-08-01,2023-12-10,Proposal,Subscription,Charlie,Enterprise,11885,In Progress
+146,2023-06-12,2023-08-20,Lead,Software,Alice,Medium,75913,In Progress
+147,2023-10-29,2023-11-11,Closed-Won,Software,David,Large,20388,Won
+148,2023-09-07,2024-02-22,Proposal,Consulting,Frank,Large,41826,In Progress
+149,2023-04-23,2023-08-12,Qualified,Consulting,Charlie,Small,5717,In Progress
+150,2023-02-15,2023-03-31,Lead,Subscription,Bob,Medium,18735,In Progress
+151,2023-01-29,2023-04-20,Closed-Lost,Consulting,Eve,Small,8601,Lost
+152,2023-11-23,2024-01-07,Proposal,Consulting,Alice,Enterprise,58506,In Progress
+153,2023-04-26,2023-06-24,Negotiation,Consulting,Frank,Enterprise,48080,In Progress
+154,2023-05-12,2023-05-26,Qualified,Subscription,Alice,Small,35827,In Progress
+155,2023-07-03,2023-08-25,Qualified,Subscription,Charlie,Enterprise,82767,In Progress
+156,2023-09-23,2024-02-26,Lead,Subscription,Charlie,Medium,32722,In Progress
+157,2023-06-30,2023-10-27,Lead,Subscription,Bob,Large,35934,In Progress
+158,2023-05-06,2023-05-24,Qualified,Software,Alice,Medium,57220,In Progress
+159,2023-05-23,2023-09-22,Negotiation,Hardware,Frank,Enterprise,48383,In Progress
+160,2023-11-01,2024-04-03,Negotiation,Hardware,Bob,Large,40384,In Progress
+161,2023-06-03,2023-07-25,Lead,Hardware,Eve,Medium,33003,In Progress
+162,2023-02-20,2023-03-02,Qualified,Consulting,Eve,Medium,84014,In Progress
+163,2023-03-09,2023-08-25,Negotiation,Consulting,David,Small,96420,In Progress
+164,2023-03-25,2023-05-01,Closed-Lost,Consulting,Frank,Enterprise,15938,Lost
+165,2023-05-18,2023-06-10,Qualified,Subscription,Eve,Medium,63684,In Progress
+166,2023-12-31,2024-06-24,Closed-Won,Software,Bob,Enterprise,88480,Won
+167,2023-05-24,2023-09-22,Proposal,Hardware,Alice,Enterprise,36270,In Progress
+168,2023-09-14,2023-10-07,Proposal,Hardware,Charlie,Large,84762,In Progress
+169,2023-07-21,2023-08-07,Closed-Won,Subscription,Charlie,Large,21446,Won
+170,2023-02-03,2023-03-27,Closed-Won,Consulting,Alice,Enterprise,60287,Won
+171,2023-09-17,2023-10-22,Proposal,Consulting,David,Enterprise,93490,In Progress
+172,2023-02-28,2023-07-09,Closed-Lost,Subscription,Charlie,Medium,25372,Lost
+173,2023-07-02,2023-12-15,Proposal,Hardware,Eve,Large,26965,In Progress
+174,2023-02-14,2023-06-10,Qualified,Hardware,Bob,Medium,13720,In Progress
+175,2023-01-12,2023-06-03,Negotiation,Subscription,Eve,Enterprise,61858,In Progress
+176,2023-10-11,2023-12-27,Negotiation,Subscription,Frank,Enterprise,7238,In Progress
+177,2023-07-28,2023-10-04,Proposal,Subscription,Frank,Enterprise,41384,In Progress
+178,2023-12-02,2023-12-12,Proposal,Subscription,Charlie,Enterprise,68336,In Progress
+179,2023-11-09,2024-04-28,Qualified,Hardware,Bob,Small,24537,In Progress
+180,2023-06-04,2023-11-29,Qualified,Consulting,Alice,Enterprise,56915,In Progress
+181,2023-06-06,2023-09-13,Closed-Lost,Subscription,Eve,Small,73870,Lost
+182,2023-07-26,2023-11-24,Proposal,Software,Bob,Medium,58814,In Progress
+183,2023-12-03,2024-04-17,Closed-Lost,Consulting,Frank,Medium,34749,Lost
+184,2023-02-05,2023-02-26,Closed-Lost,Software,Frank,Enterprise,88293,Lost
+185,2023-09-12,2023-10-02,Closed-Won,Software,Eve,Large,66882,Won
+186,2023-07-30,2023-08-09,Negotiation,Subscription,David,Small,64076,In Progress
+187,2023-02-26,2023-03-31,Lead,Software,Eve,Large,56457,In Progress
+188,2023-10-07,2024-03-31,Qualified,Subscription,Eve,Medium,14040,In Progress
+189,2023-09-28,2023-10-18,Closed-Won,Subscription,Frank,Enterprise,43430,Won
+190,2023-03-07,2023-03-30,Closed-Won,Subscription,David,Medium,18999,Won
+191,2023-03-26,2023-06-28,Negotiation,Software,Frank,Enterprise,30945,In Progress
+192,2023-05-08,2023-08-20,Closed-Lost,Subscription,Alice,Enterprise,18943,Lost
+193,2023-07-22,2023-12-12,Lead,Hardware,Frank,Enterprise,96421,In Progress
+194,2023-02-08,2023-07-13,Qualified,Software,Frank,Large,57936,In Progress
+195,2023-03-29,2023-04-17,Qualified,Hardware,Alice,Medium,21945,In Progress
+196,2023-02-08,2023-04-12,Negotiation,Consulting,Eve,Large,67968,In Progress
+197,2023-06-08,2023-10-05,Proposal,Software,Bob,Small,31401,In Progress
+198,2023-12-17,2024-01-19,Proposal,Software,David,Medium,60598,In Progress
+199,2023-12-23,2024-03-24,Lead,Subscription,Charlie,Small,67870,In Progress
+200,2023-07-06,2023-08-07,Closed-Lost,Subscription,Bob,Small,5131,Lost
+201,2023-11-18,2023-12-26,Proposal,Software,Alice,Enterprise,66844,In Progress
+202,2023-08-01,2023-09-28,Qualified,Subscription,Eve,Enterprise,5049,In Progress
+203,2023-02-26,2023-06-13,Qualified,Consulting,David,Small,50467,In Progress
+204,2023-10-05,2024-03-20,Lead,Subscription,Alice,Enterprise,42988,In Progress
+205,2023-01-05,2023-01-16,Closed-Lost,Software,David,Medium,82212,Lost
+206,2023-04-10,2023-04-23,Lead,Hardware,Frank,Enterprise,22560,In Progress
+207,2023-09-14,2024-02-26,Closed-Won,Consulting,Bob,Enterprise,13870,Won
+208,2023-05-11,2023-10-19,Qualified,Consulting,Frank,Enterprise,72767,In Progress
+209,2023-09-23,2023-10-19,Lead,Subscription,Alice,Small,39457,In Progress
+210,2023-07-05,2023-11-26,Closed-Lost,Software,Eve,Small,11236,Lost
+211,2023-12-28,2024-03-28,Qualified,Software,Bob,Enterprise,7326,In Progress
+212,2023-04-30,2023-08-01,Closed-Lost,Consulting,Alice,Medium,96393,Lost
+213,2023-05-26,2023-08-22,Closed-Won,Subscription,Charlie,Small,32084,Won
+214,2023-10-15,2024-01-08,Closed-Lost,Consulting,Eve,Large,83279,Lost
+215,2023-05-24,2023-09-10,Qualified,Hardware,Bob,Small,85451,In Progress
+216,2023-06-09,2023-08-21,Closed-Lost,Hardware,Eve,Large,63804,Lost
+217,2023-09-05,2023-11-12,Closed-Won,Software,Frank,Medium,11344,Won
+218,2023-03-28,2023-06-14,Lead,Consulting,Charlie,Enterprise,49928,In Progress
+219,2023-12-05,2024-02-29,Closed-Lost,Subscription,Bob,Enterprise,30452,Lost
+220,2023-04-15,2023-06-12,Qualified,Hardware,Eve,Large,65557,In Progress
+221,2023-03-02,2023-06-08,Negotiation,Subscription,Bob,Enterprise,44911,In Progress
+222,2023-04-29,2023-07-20,Qualified,Hardware,Alice,Large,96678,In Progress
+223,2023-11-13,2023-12-19,Negotiation,Software,Eve,Small,40474,In Progress
+224,2023-01-23,2023-02-22,Qualified,Hardware,David,Small,36996,In Progress
+225,2023-01-11,2023-05-04,Proposal,Software,Bob,Small,73369,In Progress
+226,2023-08-24,2023-11-24,Lead,Hardware,Eve,Small,28496,In Progress
+227,2023-05-19,2023-08-20,Lead,Hardware,Charlie,Enterprise,17464,In Progress
+228,2023-12-12,2024-01-13,Closed-Won,Software,Alice,Enterprise,8563,Won
+229,2023-08-14,2023-11-25,Qualified,Consulting,Frank,Enterprise,30382,In Progress
+230,2023-12-13,2024-03-02,Qualified,Consulting,Alice,Medium,38446,In Progress
+231,2023-05-28,2023-09-04,Negotiation,Subscription,Bob,Medium,56024,In Progress
+232,2023-05-18,2023-09-04,Closed-Won,Software,Charlie,Medium,89310,Won
+233,2023-03-17,2023-04-25,Lead,Software,David,Small,69935,In Progress
+234,2023-04-26,2023-05-30,Lead,Subscription,Frank,Large,83856,In Progress
+235,2023-10-11,2023-11-01,Lead,Consulting,Bob,Large,98539,In Progress
+236,2023-05-04,2023-07-11,Closed-Lost,Hardware,Frank,Enterprise,97377,Lost
+237,2023-04-12,2023-06-22,Closed-Lost,Hardware,Charlie,Small,23225,Lost
+238,2023-03-02,2023-05-01,Proposal,Hardware,Bob,Large,78236,In Progress
+239,2023-11-25,2024-03-02,Closed-Won,Subscription,Frank,Medium,65271,Won
+240,2023-10-28,2024-02-28,Lead,Consulting,Bob,Large,80853,In Progress
+241,2023-06-21,2023-12-18,Closed-Won,Consulting,Charlie,Large,7086,Won
+242,2023-06-19,2023-07-07,Closed-Lost,Subscription,David,Large,24428,Lost
+243,2023-05-09,2023-10-17,Negotiation,Consulting,Bob,Small,48124,In Progress
+244,2023-10-03,2024-03-27,Closed-Won,Subscription,Bob,Small,79798,Won
+245,2023-06-06,2023-09-30,Lead,Hardware,Charlie,Medium,94859,In Progress
+246,2023-07-22,2024-01-12,Closed-Lost,Software,Alice,Small,74103,Lost
+247,2023-09-26,2024-03-11,Qualified,Consulting,Frank,Small,79730,In Progress
+248,2023-06-06,2023-08-01,Closed-Lost,Software,Bob,Medium,93769,Lost
+249,2023-05-06,2023-07-20,Closed-Lost,Software,Charlie,Enterprise,45647,Lost
+250,2023-03-10,2023-05-23,Qualified,Software,Alice,Large,48408,In Progress
+251,2023-03-24,2023-09-10,Lead,Consulting,Eve,Medium,56006,In Progress
+252,2023-11-04,2024-02-15,Negotiation,Hardware,Frank,Large,55072,In Progress
+253,2023-03-08,2023-04-09,Closed-Lost,Subscription,Frank,Large,16195,Lost
+254,2023-03-24,2023-06-30,Closed-Won,Hardware,Alice,Small,98111,Won
+255,2023-12-04,2024-02-26,Lead,Subscription,Alice,Small,11149,In Progress
+256,2023-08-14,2023-08-24,Proposal,Hardware,David,Large,46702,In Progress
+257,2023-10-01,2023-11-18,Negotiation,Subscription,Eve,Medium,18543,In Progress
+258,2023-08-18,2024-02-05,Proposal,Software,Eve,Enterprise,66307,In Progress
+259,2023-10-16,2024-03-09,Qualified,Software,Charlie,Medium,88622,In Progress
+260,2023-09-07,2023-11-11,Lead,Hardware,Alice,Enterprise,15443,In Progress
+261,2023-11-10,2024-03-23,Lead,Consulting,Alice,Large,74394,In Progress
+262,2023-06-19,2023-11-03,Closed-Won,Consulting,Eve,Large,38085,Won
+263,2023-09-06,2023-10-03,Closed-Lost,Consulting,Bob,Enterprise,75000,Lost
+264,2023-12-27,2024-06-20,Qualified,Hardware,Alice,Large,99607,In Progress
+265,2023-11-14,2024-01-04,Closed-Lost,Subscription,Bob,Medium,52920,Lost
+266,2023-05-12,2023-09-17,Closed-Won,Consulting,Alice,Small,58981,Won
+267,2023-07-21,2023-10-16,Qualified,Consulting,Eve,Enterprise,83347,In Progress
+268,2023-11-28,2024-01-31,Proposal,Hardware,Eve,Enterprise,34140,In Progress
+269,2023-09-20,2023-11-12,Negotiation,Subscription,Alice,Medium,68056,In Progress
+270,2023-10-03,2024-03-20,Negotiation,Hardware,Frank,Medium,73379,In Progress
+271,2023-05-27,2023-10-13,Closed-Won,Software,David,Enterprise,16683,Won
+272,2023-03-01,2023-07-14,Closed-Lost,Subscription,Eve,Small,80432,Lost
+273,2023-05-01,2023-06-17,Lead,Hardware,David,Small,22202,In Progress
+274,2023-11-15,2024-04-22,Proposal,Consulting,David,Enterprise,22309,In Progress
+275,2023-04-17,2023-09-27,Negotiation,Software,Frank,Large,77221,In Progress
+276,2023-11-18,2024-02-26,Closed-Lost,Software,David,Small,94734,Lost
+277,2023-04-06,2023-08-15,Closed-Won,Hardware,Charlie,Enterprise,59951,Won
+278,2023-11-20,2024-02-16,Lead,Software,Bob,Small,65151,In Progress
+279,2023-09-02,2023-09-26,Qualified,Hardware,Charlie,Small,41991,In Progress
+280,2023-09-08,2023-12-13,Closed-Won,Consulting,Bob,Medium,24800,Won
+281,2023-08-21,2023-09-23,Negotiation,Software,Frank,Medium,43580,In Progress
+282,2023-12-14,2024-01-20,Lead,Consulting,Alice,Small,50036,In Progress
+283,2023-11-21,2024-02-11,Negotiation,Software,Alice,Small,19029,In Progress
+284,2023-10-27,2023-12-01,Closed-Won,Software,Bob,Enterprise,24433,Won
+285,2023-07-18,2023-11-30,Lead,Hardware,Bob,Large,6548,In Progress
+286,2023-08-25,2023-11-23,Negotiation,Subscription,Bob,Enterprise,25274,In Progress
+287,2023-03-22,2023-05-06,Closed-Lost,Consulting,Frank,Small,39241,Lost
+288,2023-04-20,2023-05-12,Closed-Won,Consulting,Frank,Large,45892,Won
+289,2023-09-17,2023-11-02,Closed-Won,Hardware,Bob,Large,30033,Won
+290,2023-01-11,2023-06-14,Negotiation,Consulting,Bob,Enterprise,85960,In Progress
+291,2023-06-25,2023-07-19,Lead,Software,Alice,Enterprise,85394,In Progress
+292,2023-10-04,2024-03-27,Qualified,Consulting,Bob,Small,50182,In Progress
+293,2023-10-06,2023-12-19,Negotiation,Hardware,Alice,Large,13817,In Progress
+294,2023-08-13,2023-10-05,Closed-Won,Subscription,Frank,Enterprise,31121,Won
+295,2023-04-28,2023-05-12,Negotiation,Subscription,Charlie,Large,8551,In Progress
+296,2023-08-27,2023-11-11,Negotiation,Hardware,Frank,Enterprise,9864,In Progress
+297,2023-12-24,2024-04-27,Closed-Won,Subscription,Eve,Enterprise,57174,Won
+298,2023-01-09,2023-02-19,Closed-Lost,Software,Bob,Medium,19382,Lost
+299,2023-05-30,2023-09-01,Closed-Won,Hardware,Bob,Medium,57271,Won
+300,2023-02-26,2023-08-25,Lead,Subscription,Frank,Enterprise,7537,In Progress
+301,2023-06-01,2023-07-23,Negotiation,Consulting,Alice,Enterprise,33023,In Progress
+302,2023-01-30,2023-04-03,Closed-Won,Subscription,Charlie,Enterprise,56893,Won
+303,2023-10-07,2023-12-20,Closed-Won,Subscription,Frank,Large,5079,Won
+304,2023-06-25,2023-07-25,Proposal,Consulting,Charlie,Large,52180,In Progress
+305,2023-10-30,2024-02-18,Proposal,Hardware,Alice,Large,46359,In Progress
+306,2023-04-16,2023-06-28,Closed-Lost,Hardware,Bob,Small,70993,Lost
+307,2023-06-26,2023-10-27,Closed-Won,Subscription,David,Small,63225,Won
+308,2023-06-04,2023-06-23,Closed-Lost,Software,Alice,Medium,23067,Lost
+309,2023-03-17,2023-07-20,Qualified,Hardware,David,Medium,66530,In Progress
+310,2023-03-23,2023-05-26,Qualified,Subscription,Eve,Small,85312,In Progress
+311,2023-02-11,2023-02-28,Lead,Hardware,Charlie,Medium,74776,In Progress
+312,2023-12-21,2024-03-01,Closed-Won,Subscription,Frank,Enterprise,66996,Won
+313,2023-05-08,2023-06-14,Proposal,Hardware,Bob,Medium,65758,In Progress
+314,2023-01-21,2023-05-24,Closed-Lost,Subscription,Eve,Large,71875,Lost
+315,2023-05-23,2023-10-16,Qualified,Software,Bob,Medium,33296,In Progress
+316,2023-12-16,2024-02-20,Lead,Consulting,Alice,Small,86824,In Progress
+317,2023-02-18,2023-06-23,Negotiation,Consulting,Eve,Enterprise,68247,In Progress
+318,2023-01-20,2023-04-04,Negotiation,Consulting,Alice,Medium,84866,In Progress
+319,2023-03-23,2023-08-18,Negotiation,Subscription,Eve,Medium,64111,In Progress
+320,2023-01-27,2023-05-10,Negotiation,Consulting,Alice,Enterprise,83429,In Progress
+321,2023-07-30,2023-10-23,Closed-Won,Software,Frank,Large,18632,Won
+322,2023-07-14,2023-11-18,Proposal,Software,Eve,Large,84395,In Progress
+323,2023-01-25,2023-07-05,Negotiation,Hardware,Alice,Medium,34208,In Progress
+324,2023-07-11,2023-08-15,Lead,Hardware,Frank,Large,9760,In Progress
+325,2023-05-20,2023-07-15,Lead,Hardware,Bob,Large,17082,In Progress
+326,2023-10-02,2023-11-11,Closed-Won,Software,Eve,Medium,99220,Won
+327,2023-05-22,2023-09-30,Closed-Won,Subscription,Bob,Small,29618,Won
+328,2023-11-04,2023-12-19,Closed-Won,Subscription,Bob,Medium,7357,Won
+329,2023-04-10,2023-08-30,Negotiation,Hardware,Bob,Large,57149,In Progress
+330,2023-10-16,2023-11-20,Proposal,Software,Bob,Medium,43546,In Progress
+331,2023-12-22,2024-01-27,Closed-Lost,Consulting,Charlie,Small,77413,Lost
+332,2023-03-09,2023-08-31,Proposal,Software,Alice,Enterprise,61001,In Progress
+333,2023-04-04,2023-04-26,Lead,Subscription,Alice,Medium,75176,In Progress
+334,2023-04-16,2023-05-21,Lead,Subscription,Bob,Medium,33703,In Progress
+335,2023-01-20,2023-03-06,Closed-Won,Subscription,Bob,Medium,79232,Won
+336,2023-06-28,2023-07-21,Lead,Software,Alice,Enterprise,66438,In Progress
+337,2023-12-23,2024-01-11,Closed-Won,Software,Eve,Enterprise,82907,Won
+338,2023-08-10,2023-08-24,Closed-Won,Hardware,Eve,Large,80920,Won
+339,2023-08-16,2024-02-12,Lead,Consulting,Frank,Medium,50936,In Progress
+340,2023-08-11,2023-08-22,Lead,Hardware,David,Small,13560,In Progress
+341,2023-08-27,2023-10-14,Qualified,Subscription,David,Large,54003,In Progress
+342,2023-06-01,2023-07-11,Closed-Lost,Consulting,Eve,Enterprise,69787,Lost
+343,2023-09-19,2023-10-29,Negotiation,Software,Eve,Large,73904,In Progress
+344,2023-12-19,2024-03-17,Negotiation,Subscription,Bob,Enterprise,72517,In Progress
+345,2023-10-22,2024-01-19,Negotiation,Consulting,Alice,Enterprise,57543,In Progress
+346,2023-02-17,2023-03-07,Closed-Won,Software,Bob,Medium,57097,Won
+347,2023-03-10,2023-06-08,Lead,Hardware,Bob,Enterprise,88212,In Progress
+348,2023-11-24,2024-03-27,Closed-Lost,Consulting,Charlie,Medium,33104,Lost
+349,2023-06-27,2023-08-20,Qualified,Hardware,Frank,Small,94202,In Progress
+350,2023-02-03,2023-04-02,Lead,Subscription,Bob,Small,84201,In Progress
+351,2023-09-12,2024-01-30,Closed-Lost,Hardware,Bob,Large,61233,Lost
+352,2023-10-23,2023-12-20,Closed-Lost,Subscription,Charlie,Enterprise,90866,Lost
+353,2023-01-30,2023-02-17,Qualified,Software,Eve,Large,99185,In Progress
+354,2023-10-14,2024-01-02,Closed-Won,Software,Frank,Small,63809,Won
+355,2023-09-03,2023-12-05,Qualified,Subscription,Frank,Enterprise,85994,In Progress
+356,2023-11-21,2023-12-22,Lead,Hardware,Alice,Large,23596,In Progress
+357,2023-06-15,2023-08-16,Closed-Lost,Hardware,Alice,Medium,84421,Lost
+358,2023-03-23,2023-09-19,Lead,Software,David,Enterprise,58063,In Progress
+359,2023-02-23,2023-03-27,Closed-Lost,Subscription,Charlie,Medium,44123,Lost
+360,2023-02-22,2023-04-30,Closed-Won,Subscription,Alice,Medium,90801,Won
+361,2023-05-22,2023-08-11,Closed-Lost,Subscription,Alice,Medium,74800,Lost
+362,2023-05-14,2023-11-06,Negotiation,Subscription,Alice,Large,20051,In Progress
+363,2023-07-06,2023-12-16,Proposal,Software,Charlie,Large,18401,In Progress
+364,2023-11-10,2023-12-02,Qualified,Software,David,Large,42312,In Progress
+365,2023-03-02,2023-03-31,Closed-Lost,Subscription,Frank,Enterprise,53561,Lost
+366,2023-10-02,2024-01-15,Closed-Lost,Subscription,Frank,Small,5023,Lost
+367,2023-05-26,2023-09-15,Closed-Lost,Software,Alice,Large,81780,Lost
+368,2023-03-03,2023-03-13,Closed-Won,Consulting,Frank,Large,59483,Won
+369,2023-05-03,2023-08-07,Lead,Software,Charlie,Enterprise,31414,In Progress
+370,2023-07-21,2023-12-25,Proposal,Hardware,Eve,Medium,79557,In Progress
+371,2023-01-12,2023-06-09,Lead,Software,Bob,Medium,38877,In Progress
+372,2023-01-02,2023-06-15,Proposal,Hardware,Charlie,Large,17288,In Progress
+373,2023-04-22,2023-07-06,Lead,Subscription,Bob,Medium,41815,In Progress
+374,2023-09-21,2023-12-16,Qualified,Subscription,David,Large,49714,In Progress
+375,2023-10-14,2024-01-02,Lead,Hardware,Frank,Large,7304,In Progress
+376,2023-09-27,2024-02-12,Qualified,Hardware,David,Small,57981,In Progress
+377,2023-04-19,2023-06-08,Closed-Won,Subscription,Eve,Large,52663,Won
+378,2023-05-14,2023-09-10,Proposal,Hardware,Frank,Medium,83872,In Progress
+379,2023-06-26,2023-11-12,Qualified,Consulting,David,Large,94483,In Progress
+380,2023-02-07,2023-02-21,Closed-Lost,Hardware,Eve,Medium,97251,Lost
+381,2023-01-03,2023-03-18,Closed-Lost,Subscription,Charlie,Large,88319,Lost
+382,2023-06-10,2023-10-02,Closed-Won,Software,Charlie,Small,99834,Won
+383,2023-08-03,2023-10-22,Qualified,Subscription,Eve,Large,22067,In Progress
+384,2023-11-08,2023-12-01,Closed-Lost,Software,Charlie,Enterprise,30940,Lost
+385,2023-03-08,2023-03-24,Closed-Won,Hardware,Frank,Large,65325,Won
+386,2023-05-27,2023-09-11,Negotiation,Consulting,Alice,Enterprise,93071,In Progress
+387,2023-08-06,2023-08-25,Lead,Subscription,Eve,Small,11428,In Progress
+388,2023-11-23,2024-01-26,Closed-Lost,Software,David,Small,94775,Lost
+389,2023-05-29,2023-10-19,Lead,Hardware,David,Enterprise,81986,In Progress
+390,2023-06-26,2023-07-08,Proposal,Consulting,Charlie,Small,28057,In Progress
+391,2023-09-04,2023-09-16,Proposal,Software,Frank,Enterprise,12270,In Progress
+392,2023-02-02,2023-04-30,Proposal,Software,Charlie,Enterprise,58791,In Progress
+393,2023-09-05,2023-11-02,Lead,Software,Alice,Small,88442,In Progress
+394,2023-12-06,2024-02-17,Closed-Won,Subscription,David,Enterprise,55968,Won
+395,2023-05-16,2023-08-15,Proposal,Hardware,Bob,Large,93587,In Progress
+396,2023-04-27,2023-08-17,Lead,Subscription,Charlie,Medium,98442,In Progress
+397,2023-01-13,2023-06-14,Lead,Software,Frank,Enterprise,74930,In Progress
+398,2023-03-21,2023-09-07,Closed-Lost,Consulting,Eve,Enterprise,44016,Lost
+399,2023-09-10,2023-10-21,Negotiation,Hardware,Bob,Enterprise,56879,In Progress
+400,2023-05-25,2023-06-21,Negotiation,Consulting,Frank,Large,96524,In Progress
+401,2023-02-16,2023-05-22,Lead,Subscription,Charlie,Small,75011,In Progress
+402,2023-04-06,2023-06-13,Proposal,Consulting,Charlie,Large,26397,In Progress
+403,2023-04-03,2023-09-01,Qualified,Hardware,Charlie,Large,52248,In Progress
+404,2023-09-16,2024-02-04,Closed-Won,Consulting,David,Small,69835,Won
+405,2023-09-28,2024-01-29,Negotiation,Software,Frank,Small,29798,In Progress
+406,2023-07-26,2024-01-19,Qualified,Subscription,Alice,Small,88322,In Progress
+407,2023-05-10,2023-05-21,Qualified,Software,Alice,Small,71594,In Progress
+408,2023-10-24,2023-11-05,Closed-Won,Subscription,Eve,Enterprise,24100,Won
+409,2023-06-21,2023-10-22,Lead,Subscription,Eve,Small,95432,In Progress
+410,2023-06-11,2023-07-03,Negotiation,Software,Charlie,Enterprise,37202,In Progress
+411,2023-07-24,2023-11-08,Lead,Software,Alice,Medium,71646,In Progress
+412,2023-10-29,2024-04-20,Lead,Subscription,Alice,Large,8363,In Progress
+413,2023-08-13,2024-01-06,Closed-Won,Hardware,David,Small,72206,Won
+414,2023-01-06,2023-02-11,Qualified,Software,Charlie,Large,25147,In Progress
+415,2023-07-25,2023-09-12,Negotiation,Subscription,Frank,Enterprise,72001,In Progress
+416,2023-09-18,2024-02-23,Negotiation,Software,Frank,Small,48944,In Progress
+417,2023-01-01,2023-01-26,Closed-Won,Subscription,Charlie,Small,58485,Won
+418,2023-02-06,2023-07-29,Negotiation,Subscription,Frank,Small,72302,In Progress
+419,2023-04-11,2023-05-06,Closed-Lost,Subscription,Bob,Small,56154,Lost
+420,2023-01-27,2023-07-16,Qualified,Subscription,Charlie,Large,28190,In Progress
+421,2023-11-07,2024-01-30,Closed-Won,Software,David,Small,15837,Won
+422,2023-04-18,2023-10-12,Qualified,Hardware,David,Enterprise,82039,In Progress
+423,2023-05-01,2023-05-21,Qualified,Consulting,Alice,Large,64224,In Progress
+424,2023-03-03,2023-07-02,Closed-Won,Software,Frank,Enterprise,11606,Won
+425,2023-07-17,2023-10-27,Negotiation,Software,Frank,Enterprise,60034,In Progress
+426,2023-03-24,2023-08-09,Closed-Lost,Subscription,Bob,Enterprise,12516,Lost
+427,2023-10-26,2024-02-16,Proposal,Consulting,Eve,Medium,87579,In Progress
+428,2023-03-18,2023-08-25,Closed-Lost,Subscription,Alice,Enterprise,36490,Lost
+429,2023-02-12,2023-05-14,Negotiation,Subscription,Eve,Small,80128,In Progress
+430,2023-12-01,2023-12-31,Closed-Lost,Software,Frank,Medium,88700,Lost
+431,2023-09-13,2023-09-29,Negotiation,Consulting,Eve,Small,77926,In Progress
+432,2023-04-25,2023-07-09,Closed-Lost,Software,Charlie,Large,89589,Lost
+433,2023-08-31,2024-02-21,Proposal,Consulting,Eve,Small,80548,In Progress
+434,2023-04-13,2023-05-28,Lead,Hardware,Alice,Small,59548,In Progress
+435,2023-08-01,2023-11-10,Lead,Consulting,Bob,Large,47953,In Progress
+436,2023-06-07,2023-08-28,Closed-Won,Software,Alice,Large,17249,Won
+437,2023-11-29,2024-02-19,Qualified,Consulting,David,Medium,12838,In Progress
+438,2023-06-23,2023-09-16,Qualified,Software,Frank,Medium,21218,In Progress
+439,2023-07-05,2023-12-07,Closed-Lost,Consulting,Alice,Enterprise,12047,Lost
+440,2023-10-10,2023-11-09,Proposal,Consulting,David,Medium,97382,In Progress
+441,2023-01-31,2023-06-24,Lead,Hardware,Frank,Enterprise,88588,In Progress
+442,2023-02-09,2023-07-21,Proposal,Consulting,David,Enterprise,52925,In Progress
+443,2023-05-11,2023-07-01,Closed-Won,Software,Charlie,Large,95544,Won
+444,2023-11-07,2024-01-12,Closed-Won,Subscription,Bob,Medium,98361,Won
+445,2023-03-06,2023-03-20,Qualified,Consulting,Alice,Small,31477,In Progress
+446,2023-01-12,2023-06-13,Qualified,Software,Charlie,Enterprise,52169,In Progress
+447,2023-06-01,2023-10-23,Qualified,Subscription,Charlie,Medium,8677,In Progress
+448,2023-07-05,2023-08-23,Lead,Software,Frank,Large,44956,In Progress
+449,2023-08-03,2023-12-02,Proposal,Software,Frank,Large,20496,In Progress
+450,2023-07-25,2023-09-04,Proposal,Software,Charlie,Large,30173,In Progress
+451,2023-01-11,2023-02-01,Qualified,Subscription,Charlie,Enterprise,59164,In Progress
+452,2023-05-17,2023-09-13,Closed-Lost,Hardware,Bob,Enterprise,30038,Lost
+453,2023-09-01,2023-11-08,Lead,Consulting,Frank,Small,63493,In Progress
+454,2023-11-23,2024-03-27,Negotiation,Hardware,Eve,Small,51045,In Progress
+455,2023-08-19,2023-09-03,Lead,Software,Bob,Enterprise,86962,In Progress
+456,2023-08-21,2023-11-17,Qualified,Consulting,Charlie,Enterprise,46929,In Progress
+457,2023-01-31,2023-04-10,Lead,Software,Charlie,Small,98115,In Progress
+458,2023-05-31,2023-09-25,Lead,Subscription,Charlie,Enterprise,13408,In Progress
+459,2023-07-07,2023-12-05,Closed-Won,Subscription,Alice,Enterprise,55859,Won
+460,2023-09-13,2024-02-06,Proposal,Subscription,Eve,Small,74616,In Progress
+461,2023-11-01,2024-01-31,Closed-Won,Subscription,Charlie,Medium,54947,Won
+462,2023-11-01,2024-03-12,Closed-Lost,Hardware,David,Enterprise,99298,Lost
+463,2023-10-02,2024-03-23,Qualified,Hardware,Eve,Enterprise,58605,In Progress
+464,2023-04-10,2023-08-16,Proposal,Consulting,David,Large,24313,In Progress
+465,2023-09-09,2023-11-19,Qualified,Subscription,Charlie,Medium,68302,In Progress
+466,2023-08-02,2023-10-13,Closed-Won,Consulting,Charlie,Medium,68505,Won
+467,2023-12-10,2024-03-19,Closed-Lost,Subscription,Bob,Small,87330,Lost
+468,2023-10-03,2023-12-07,Negotiation,Hardware,David,Medium,46265,In Progress
+469,2023-10-11,2024-03-09,Closed-Won,Consulting,David,Small,57105,Won
+470,2023-10-09,2024-04-05,Proposal,Consulting,David,Small,19925,In Progress
+471,2023-01-08,2023-02-18,Closed-Lost,Hardware,Frank,Small,7128,Lost
+472,2023-11-15,2024-01-21,Closed-Lost,Hardware,David,Large,68741,Lost
+473,2023-03-27,2023-06-16,Qualified,Software,David,Enterprise,90121,In Progress
+474,2023-08-06,2023-10-08,Closed-Lost,Hardware,Charlie,Enterprise,50178,Lost
+475,2023-07-02,2023-10-13,Proposal,Subscription,Eve,Medium,51584,In Progress
+476,2023-05-27,2023-10-12,Lead,Hardware,Bob,Enterprise,49710,In Progress
+477,2023-12-12,2023-12-22,Closed-Lost,Subscription,Bob,Small,42092,Lost
+478,2023-05-08,2023-07-18,Closed-Lost,Hardware,Eve,Small,40851,Lost
+479,2023-01-05,2023-01-26,Closed-Lost,Subscription,David,Small,72664,Lost
+480,2023-09-26,2023-12-05,Negotiation,Hardware,Charlie,Medium,54470,In Progress
+481,2023-04-08,2023-06-09,Lead,Software,Bob,Medium,68506,In Progress
+482,2023-07-07,2023-11-28,Negotiation,Software,Frank,Medium,97472,In Progress
+483,2023-03-12,2023-06-25,Proposal,Subscription,Frank,Small,88495,In Progress
+484,2023-12-22,2024-05-12,Qualified,Consulting,Charlie,Medium,7340,In Progress
+485,2023-06-25,2023-07-26,Negotiation,Subscription,Charlie,Large,91186,In Progress
+486,2023-04-26,2023-05-10,Proposal,Subscription,David,Medium,46352,In Progress
+487,2023-09-10,2023-10-01,Lead,Software,David,Medium,89859,In Progress
+488,2023-08-31,2024-02-27,Negotiation,Consulting,Bob,Medium,38692,In Progress
+489,2023-10-29,2023-12-30,Closed-Lost,Consulting,David,Large,98910,Lost
+490,2023-09-23,2023-10-31,Qualified,Consulting,Frank,Large,49819,In Progress
+491,2023-08-23,2023-10-13,Closed-Won,Subscription,Charlie,Medium,91785,Won
+492,2023-12-14,2024-06-02,Qualified,Software,Charlie,Small,93445,In Progress
+493,2023-02-15,2023-05-04,Negotiation,Subscription,Alice,Small,78045,In Progress
+494,2023-06-08,2023-06-29,Closed-Won,Software,Frank,Small,82928,Won
+495,2023-01-05,2023-06-28,Proposal,Subscription,David,Medium,62006,In Progress
+496,2023-03-02,2023-07-01,Closed-Lost,Software,Eve,Small,45012,Lost
+497,2023-06-05,2023-07-19,Proposal,Hardware,Bob,Large,22396,In Progress
+498,2023-07-22,2023-10-18,Proposal,Consulting,Bob,Medium,80419,In Progress
+499,2023-03-06,2023-08-20,Negotiation,Software,Bob,Medium,57547,In Progress
+500,2023-08-25,2023-10-26,Closed-Lost,Hardware,David,Medium,69231,Lost
